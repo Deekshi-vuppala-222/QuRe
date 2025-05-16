@@ -20,18 +20,15 @@ This project combines two simple yet functional components:
 ├── script.js              # QR generator logic and interactions
 └── README.md              # Project overview (this file)
 ```
+ 🔧 Features
 
----
-
-### 🔧 Features
-
-#### ✅ Login/Register System
+✅ Login/Register System
 
 * Clean and modern UI with responsive design
 * Validates username and password inputs
 * Stores user data (in server-side PHP — extendable with a database)
 
-#### ✅ QR Code Generator
+✅ QR Code Generator
 
 * Input text or URLs
 * Select from three QR styles: Basic, Medium, Advanced
@@ -39,9 +36,7 @@ This project combines two simple yet functional components:
 * Supports download in **PNG** and **JPG** formats
 * Built with `qr-code-styling.js` and pure JavaScript
 
----
-
-### 🚀 Getting Started
+🚀 Getting Started
 
 1. **Clone the repository**
 
