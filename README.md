@@ -38,9 +38,9 @@ This project combines two simple yet functional components:
 
 🚀 Getting Started
 
-1. **Clone the repository**
+1. Clone the repository
 
-   ```bash
+  bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
    ```
